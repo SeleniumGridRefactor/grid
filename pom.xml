@@ -48,8 +48,8 @@
   </distributionManagement>
 	<dependencies>
 		<dependency>
-			<groupId>org.openqa.selenium.server</groupId>
-			<artifactId>selenium_grid_server</artifactId>
+			<groupId>org.openqa.seleniumgrid</groupId>
+			<artifactId>selenium_server</artifactId>
 			<version>0.0.2-SNAPSHOT</version>
 		</dependency>
 		<dependency>
